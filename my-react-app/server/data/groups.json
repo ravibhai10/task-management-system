@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1761675337224,
+    "name": "123",
+    "adminId": 1761675319119,
+    "passcode": "123",
+    "members": [
+      1761675319119
+    ],
+    "createdAt": "2025-10-28T18:15:37.224Z",
+    "tasks": [
+      {
+        "id": 1761675406457,
+        "title": "WPL:",
+        "description": "ggg",
+        "assignedTo": "1761675319119",
+        "dueDate": "2025-10-29",
+        "timeLimit": "199",
+        "isCollaborative": false,
+        "createdAt": "2025-10-28T18:16:46.457Z",
+        "status": "pending",
+        "completedBy": null,
+        "collaborators": [],
+        "comments": [],
+        "timeSpent": 0,
+        "lastActiveTime": null,
+        "timeHistory": []
+      }
+    ]
+  },
+  {
+    "id": 1761745229390,
+    "name": "Demo Group",
+    "adminId": 1761745229389,
+    "passcode": "demo",
+    "members": [
+      1761745229389
+    ],
+    "createdAt": "2025-10-29T13:40:29.393Z",
+    "tasks": [
+      {
+        "id": 1761745229391,
+        "title": "Demo Task",
+        "description": "This is a seeded demo task",
+        "assignedTo": 1761745229389,
+        "dueDate": null,
+        "timeLimit": "60",
+        "isCollaborative": false,
+        "createdAt": "2025-10-29T13:40:29.394Z",
+        "status": "pending",
+        "completedBy": null,
+        "collaborators": [],
+        "comments": [],
+        "timeSpent": 0,
+        "lastActiveTime": null,
+        "timeHistory": []
+      }
+    ]
+  },
+  {
+    "id": 1761751101991,
+    "name": "demo",
+    "adminId": 1761749681008,
+    "passcode": "123",
+    "members": [
+      1761749681008
+    ],
+    "createdAt": "2025-10-29T15:18:21.991Z",
+    "tasks": [
+      {
+        "id": 1761751120257,
+        "title": "wpl",
+        "description": "xyz",
+        "assignedTo": "1761749681008",
+        "dueDate": "2025-10-30",
+        "timeLimit": "10000",
+        "isCollaborative": true,
+        "createdAt": "2025-10-29T15:18:40.257Z",
+        "status": "pending",
+        "completedBy": null,
+        "collaborators": [
+          1761749681008
+        ],
+        "comments": [],
+        "timeSpent": 0,
+        "lastActiveTime": null,
+        "timeHistory": []
+      }
+    ]
+  }
+]
